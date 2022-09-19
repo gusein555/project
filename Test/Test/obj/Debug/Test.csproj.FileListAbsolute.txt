@@ -1,0 +1,15 @@
+C:\Users\Gusein\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Gusein\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\Gusein\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\Gusein\Desktop\Test\Test\bin\Debug\EntityFramework.dll
+C:\Users\Gusein\Desktop\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gusein\Desktop\Test\Test\bin\Debug\EntityFramework.xml
+C:\Users\Gusein\Desktop\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gusein\Desktop\Test\Test\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Gusein\Desktop\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Gusein\Desktop\Test\Test\obj\Debug\Test.FormMAIN.resources
+C:\Users\Gusein\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Gusein\Desktop\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Gusein\Desktop\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Gusein\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\Gusein\Desktop\Test\Test\obj\Debug\Test.pdb
