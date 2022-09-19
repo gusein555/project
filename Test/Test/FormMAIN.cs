@@ -81,10 +81,20 @@ namespace Test
 
                         MessageBox.Show("Категория успешно добавлена");
 
+                        textBoxCategory.Text = "";
+
                         dataGridViewCategoryList.Rows.Clear();
+                        comboBoxCategory.Items.Clear();
+
                         foreach (Category categoryUpdate in context.Category)
                         {
                             dataGridViewCategoryList.Rows.Add(categoryUpdate.id, categoryUpdate.Name);
+
+                            ComboboxItem item = new ComboboxItem();
+                            item.Text = category.Name;
+                            item.Value = category.id;
+
+                            comboBoxCategory.Items.Add(item);
                         }
                     }
                 }
@@ -135,6 +145,10 @@ namespace Test
                         context.SaveChanges();
 
                         MessageBox.Show("Товар успешно добавлен");
+
+                        textBoxProduct.Text = "";
+                        textBoxProductPrice.Text = "0";
+                        comboBoxCategory.SelectedItem = "";
 
                         dataGridViewProductList.Rows.Clear();
                         foreach (Product productUpdate in context.Product)
